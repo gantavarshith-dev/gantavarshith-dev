@@ -4,23 +4,13 @@
 
 
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/gantavarshith-dev#gh-light-mode-only">
-        <img
-          src="https://raw.githubusercontent.com/gantavarshith-dev/gantavarshith-dev/output/github-contribution-grid-snake.svg#gh-light-mode-only"
-          alt="GitHub Contribution Snake"
-        />
-      </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gantavarshith-dev/gantavarshith-dev/output/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gantavarshith-dev/gantavarshith-dev/output/dist/github-snake.svg" />
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/gantavarshith-dev/gantavarshith-dev/output/dist/github-snake.svg" />
+</picture>
 
-      <a href="https://github.com/gantavarshith-dev#gh-dark-mode-only">
-        <img
-          src="https://raw.githubusercontent.com/gantavarshith-dev/gantavarshith-dev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
-          alt="GitHub Contribution Snake"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
 
