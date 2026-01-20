@@ -11,7 +11,12 @@
 
 I am a **backend-focused Java Full Stack Developer with over _4+ years of experience_** designing and developing **scalable, enterprise-grade applications**.I specialize in **Java (17/8), Spring Boot, Microservices, RESTful APIs, and AWS**, with strong hands-on experience across the **entire Software Development Life Cycle (SDLC)** in **Agile environments**.
 
-My background includes building **secure, high-performance backend systems**, modernizing **legacy monolithic applications into microservices**, optimizing **database performance**, and deploying **cloud-native solutions**.I am passionate about **clean architecture, performance optimization, and writing maintainable, production-ready code**.
+I enjoy turning complex requirements into well-structured, production-ready systems using Java, Spring Boot, microservices, and modern web technologies, with a strong focus on clarity, performance, and scalability.
+
+My experience spans building secure REST and SOAP integrations, designing resilient backend workflows, optimizing data layers, and delivering cloud-native solutions on AWS supported by CI/CD automation.
+
+I graduated with a Master’s degree in Information Technology from the University of Cincinnati, and I thrive in Agile environments where thoughtful engineering, clean design, and continuous improvement drive meaningful software from idea to deployment.
+            
 
 ## 🚀 Tech Stack
 
