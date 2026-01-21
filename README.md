@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=520&lines=Learning%2C+Building%2C+and+Scaling+Software." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=520&lines=Learning%2C+Living%2C+and+Leveling+Up." alt="Typing SVG" />
 </h3>
 
 ## 👨‍💻 About Me
