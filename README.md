@@ -67,7 +67,6 @@ I graduated with a Master’s degree in Information Technology from the Universi
 
 ## 💼 Experience
 
-- **Java Full Stack Developer** — *Acuity Brands Lighting* (2025)
 - **Java Developer** — *Shriram General Insurance* (2023 – 2024)
 - **Java Developer** — *Mizuho Bank* (2021 – 2022)
 
