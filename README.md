@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
   Hi, I'm Varshith Ganta!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
@@ -72,4 +72,4 @@ I graduated with a Master’s degree in Information Technology from the Universi
 
 ---
 
-📌 **Open to _Java / Backend / Full Stack_ opportunities**
+📌 **Open to _Java / Backend / Full Stack_ opportunities** -->
